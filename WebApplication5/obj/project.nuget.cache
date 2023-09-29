@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NbyFkqt4u1GvwXwzKEK1JDudNdo5unQhkkv3QJo2Rpx9DwQdB+Y2JPPhuhP/XKBW3ZBQyTD2G9mvfA2lyf1yVg==",
+  "success": true,
+  "projectFilePath": "D:\\Work and practices\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ravik\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\ravik\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ravik\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\ravik\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
